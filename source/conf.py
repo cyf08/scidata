@@ -9,6 +9,7 @@
 project = 'scidata_manual'
 copyright = '2023, hpc_sjtu'
 author = 'hpc_sjtu'
+release = 'v1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -19,7 +20,7 @@ extensions = [
  ]
 
 templates_path = ['_templates']
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = []
 
 language = 'zh_CN'
 
