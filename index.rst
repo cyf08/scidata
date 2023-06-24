@@ -3,13 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to scidata_manual's documentation!
+欢迎使用科学数据平台！
 ==========================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   科学数据平台用户使用指南
 
 
 Indices and tables
